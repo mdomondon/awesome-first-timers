@@ -497,3 +497,10 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+- Name: Mark Domo 
+  Place: New York, New York 
+  Bio: Avid learner trying to learn coding 
+  GitHub: [mdomondon](https://github.com/mdomondon) 
+  
+  
